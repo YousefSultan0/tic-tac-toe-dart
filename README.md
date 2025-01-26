@@ -30,6 +30,7 @@ To run this Dart console-based Tic-Tac-Toe game, follow these steps:
 3. **Run the game**:
    Open your terminal and navigate to the project directory, then run the following command:
    ```bash
+   cd lib
    dart run main.dart
    ```
 
