@@ -20,7 +20,7 @@ To run this Dart console-based Tic-Tac-Toe game, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-dart.git
+   git clone https://github.com/YousefSultan0/tic-tac-toe-dart.git
    cd tic-tac-toe-dart
    ```
 
